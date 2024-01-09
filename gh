@@ -1,0 +1,10 @@
+C:\Users\g702306\Desktop\testy000\aplicajava\devopsproj\source12.c
+
+mkdir build
+cd build
+cmake .. # Add -DCMAKE_CXX_FLAGS="-std=c++20 -fcoroutines" if using GCC10
+make -j
+./drogon_website
+
+https://github.com/drogonframework/drogon-website
+https://allistersanchez.medium.com/web-app-development-with-modern-c-part-1-1874158ec449

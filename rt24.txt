@@ -1,0 +1,66 @@
+	 dockerfile node  	  reader  	 { >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "docker-nodejs", >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "1.0.0", >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "index.js", >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "MIT", >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 { >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "prettier >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 --write >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "test": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "dev": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 --inspect=0.0.0.0:9229 >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 src/index.js" >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "dependencies": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "express": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "pg": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "sqlite3": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "uuid": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "wait-port": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 }, >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 { >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "5.0.1" >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "prettier": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "trailingComma": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "tabWidth": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "useTabs": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "semi": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "singleQuote": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 }, >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 { >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "^29.6.2", >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "^3.0.1", >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "^2.7.1" >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 } >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 { >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "docker-nodejs", >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "1.0.0", >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "index.js", >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "MIT", >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 { >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "prettier >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 --write >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "test": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "dev": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 --inspect=0.0.0.0:9229 >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 src/index.js" >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "dependencies": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "express": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "pg": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "sqlite3": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "uuid": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "wait-port": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 }, >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 { >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "5.0.1" >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "prettier": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "trailingComma": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "tabWidth": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "useTabs": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "semi": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "singleQuote": >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 }, >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 { >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "^29.6.2", >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "^3.0.1", >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 "^2.7.1" >>  	 /*  reader2 -  counter _ 	 6420144 
+	 dockerfile node  	  reader  	 } >>  	 /*  reader2 -  counter _ 	 6420144 
